@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: Nossos Números
+content: >
+  ## Por que participar da APM do CMS?
+
+  Nosso objetivo é prover um suporte solidário ao colegio e a todos os alunos, a fim de melhorar o desempenho deles..
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: Número de Associados
+    percent: 69
+  - title: Parcerias
+    percent: 60
+  - title: Atividades Extras
+    percent: 85

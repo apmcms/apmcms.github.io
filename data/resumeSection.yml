@@ -1,0 +1,48 @@
+---
+enable: true
+topTitle: Nossa Equipe
+title: >
+  ## Nossa Equipe
+
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+
+
+  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+tab1Name: Diretoria
+tab2Name: Colaboradores
+tab1Target: diretoria
+tab2Target: colaboradores
+
+diretoria:
+  - content: >
+      #### Isabela Almeida Oliveira Santos
+    time: Presidente
+  - content: >
+      #### Verana Santos
+    time: Vice-Presidente
+  - content: >
+      #### José Roberto Costa Araújo
+    time: Primeiro Secretário
+  - content: >
+      #### Gesse Maris Vasconcelos
+    time: Primeiro Tesoureiro
+  - content: >
+      #### Irís Remigo
+    time: Diretor Social e Assistente
+  - content: >
+      #### Silvana Ribeiro 
+    time: Diretor Cultural e Desportos
+
+colaboradores:
+  - content: >
+      #### Loren Ipsum
+    time: Loren Ipsum
+  - content: >
+      #### Loren Ipsum
+    time: Loren Ipsum
+  - content: >
+      #### Loren Ipsum
+    time: Loren Ipsum
+  - content: >
+      #### Loren Ipsum
+    time: Loren Ipsum
