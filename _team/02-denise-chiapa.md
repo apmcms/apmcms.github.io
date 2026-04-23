@@ -1,8 +1,10 @@
 ---
 title: "Denise Chiapa"
 name: "Denise Chiapa"
+image: "images/team/sage-kirk-485982-unsplash.jpg"
 jobtitle: "Vice-Presidente"
-image: "images/team/person-placeholder.jpg"
+linkedinurl: "https://www.linkedin.com/example2"
+promoted: true
 weight: 2
 ---
 
