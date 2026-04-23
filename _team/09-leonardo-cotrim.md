@@ -1,7 +1,7 @@
 ---
 title: "Leonardo Cotrim"
 name: "Leonardo Cotrim"
-jobtitle: "Presidente do Conselho Fiscal"
+jobtitle: "Conselho Fiscal"
 # image: "images/team/person-placeholder.jpg"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
