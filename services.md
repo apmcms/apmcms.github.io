@@ -2,7 +2,7 @@
 title: Projetos
 layout: services
 description: Projetos e ações da APM CMS
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/imagem1.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
