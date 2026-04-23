@@ -2,7 +2,8 @@
 title: "Mario Jorge"
 name: "Mario Jorge"
 jobtitle: "1º Secretário"
-image: "images/team/person-placeholder.jpg"
+linkedinurl: "https://www.linkedin.com/"
+promoted: true
 weight: 3
 ---
 
