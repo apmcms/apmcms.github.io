@@ -1,12 +1,12 @@
 ---
-title: Team
+title: Diretoria
 layout: teams
-description: Team
+description: Diretoria da APM CMS
 permalink: "/team/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Diretoria da APM CMS
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Conheça a equipe responsável pela Associação de Pais e Mestres do Colégio Militar de Salvador.
