@@ -1,7 +1,7 @@
 ---
 title: "Alessandra Gomes Trindade de Souza"
 name: "Alessandra Gomes Trindade de Souza"
-jobtitle: "Relatora do Conselho Fiscal"
+jobtitle: "Conselho Fiscal"
 # image: "images/team/person-placeholder.jpg"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
