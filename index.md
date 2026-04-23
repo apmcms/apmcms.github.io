@@ -2,10 +2,10 @@
 title: APM CMS
 layout: home
 description: Associação de Pais e Mestres do Colégio Militar de Salvador
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/imagem1.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
 # Associação de Pais e Mestres do Colégio Militar de Salvador
