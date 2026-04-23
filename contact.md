@@ -1,16 +1,22 @@
 ---
-title: Contact
+title: Contato
 layout: contact
-description: Contact
+description: Contato
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+# Contato
 
-| Day       | Opening Hours   |
+Entre em contato com a Associação de Pais e Mestres do Colégio Militar de Salvador pelos canais oficiais.
+
+Em breve, divulgaremos também nossos canais institucionais e horários de atendimento.
+
+| Dia       | Funcionamento   |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Segunda   |  6:20 - 15:00   |
+| Terça     |  6:20 - 15:00   |
+| Quarta    |  6:20 - 15:00   |
+| Quinta    |  6:20 - 15:00   |
+| Sexta     |  6:20 - 13:00   |
+| Sabado    | Fechado         |
+| Domingo   | Closed          |
+
