@@ -1,5 +1,6 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap');
 
 // Colors
 $primary: #e5261f;
@@ -17,8 +18,10 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+//$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
+//$font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family-base: "Inter", Helvetica, Arial, sans-serif, -apple-system;
+$font-family-heading: "Montserrat", Helvetica, Arial, sans-serif;
 
 // Footer
 $footer-background-color: $primary;
@@ -115,4 +118,31 @@ body {
     font-size: 16px;
     line-height: 1.3;
   }
+}
+
+h1, h2, h3, h4, h5, h6,
+.main-menu a,
+.main-menu-mobile a,
+.button,
+.btn {
+  font-family: $font-family-heading;
+  letter-spacing: -0.02em;
+}
+
+body {
+  font-family: $font-family-base;
+  font-weight: 400;
+}
+
+.intro h1,
+.title h1,
+.page h1 {
+  font-weight: 800;
+}
+
+.intro p,
+.content p,
+.feature-content p {
+  font-size: 17px;
+  line-height: 1.55;
 }
