@@ -1,6 +1,6 @@
 ---
-title: "Denise Chiapa"
-name: "Denise Chiapa"
+title: "Denise Chiappa"
+name: "Denise Chiappa"
 image: "images/team/sage-kirk-485982-unsplash.jpg"
 jobtitle: "Vice-Presidente"
 linkedinurl: "https://www.linkedin.com/example2"
