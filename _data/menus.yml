@@ -5,7 +5,7 @@ main:
   - name: "Projetos"
     url: "/services/"
     weight: 2
-  - name: "Diretoria"
+  - name: "Quem Somos"
     url: "/team/"
     weight: 3
   - name: "Sobre"
