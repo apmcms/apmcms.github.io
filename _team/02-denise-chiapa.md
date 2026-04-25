@@ -4,6 +4,7 @@ name: "Denise Chiapa"
 image: "images/team/sage-kirk-485982-unsplash.jpg"
 jobtitle: "Vice-Presidente"
 linkedinurl: "https://www.linkedin.com/example2"
+group: "Diretoria"
 promoted: true
 weight: 2
 ---
