@@ -4,6 +4,7 @@ name: "Cesar de Sousa"
 jobtitle: "Diretor Social"
 # image: "images/team/person-placeholder.jpg"
 linkedinurl: "https://www.linkedin.com/"
+group: "Diretoria"
 promoted: true
 weight: 8
 ---
