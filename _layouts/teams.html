@@ -2,7 +2,6 @@
 layout: default
 bodyClass: "page-teams"
 ---
-
 <div class="intro">
     <div class="container">
         <div class="row justify-content-start">
@@ -23,36 +22,34 @@ bodyClass: "page-teams"
 </div>
 
 <div class="container pt-4 pb-6">
-
     {% assign grupos = "Diretoria|Conselho Fiscal|Equipe de Apoio" | split: "|" %}
-
     {% for grupo in grupos %}
         {% assign pessoas = site.team | where: "group", grupo | sort: "weight" %}
-
         {% if pessoas.size > 0 %}
         <div class="row pt-5">
             <div class="col-12">
                 <h2 class="team-section-title">{{ grupo }}</h2>
             </div>
         </div>
-
         <div class="row">
             {% for team in pessoas %}
-            <div class="col-12 col-md-6 col-lg-4 mb-4">
+               {% if grupo == "Diretoria Executiva" %}
+                <div class="col-12 col-md-6 col-lg-6 mb-4">
+                {% else %}
+                <div class="col-12 col-md-6 col-lg-4 mb-4">
+                {% endif %}
                 <div class="team team-summary team-card">
                     {% if team.image %}
                     <div class="team-image">
                         <img width="72" height="72" alt="{{ team.title }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
                     </div>
                     {% endif %}
-
                     <div class="team-meta">
                         <h2 class="team-name">
                             <a href="{{ team.url | relative_url }}">{{ team.title }}</a>
                         </h2>
                         <p class="team-description">{{ team.jobtitle }}</p>
                     </div>
-
                     {% if team.excerpt %}
                     <div class="team-content">
                         {{ team.excerpt | strip_html | truncate: 120 }}
@@ -64,5 +61,4 @@ bodyClass: "page-teams"
         </div>
         {% endif %}
     {% endfor %}
-
 </div>
