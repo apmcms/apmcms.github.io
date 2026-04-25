@@ -24,7 +24,7 @@ bodyClass: "page-teams"
 
 <div class="container pt-4 pb-6">
 
-    {% assign grupos = "Diretoria Executiva|Conselho Fiscal|Equipe de Apoio" | split: "|" %}
+    {% assign grupos = "Diretoria|Conselho Fiscal|Equipe de Apoio" | split: "|" %}
 
     {% for grupo in grupos %}
         {% assign pessoas = site.team | where: "group", grupo | sort: "weight" %}
