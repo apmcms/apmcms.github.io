@@ -4,6 +4,7 @@ name: "Giscardi"
 jobtitle: "1º Tesoureiro"
 # image: "images/team/person-placeholder.jpg"
 linkedinurl: "https://www.linkedin.com/"
+group: "Diretoria"
 promoted: true
 weight: 5
 ---
