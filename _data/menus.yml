@@ -2,18 +2,21 @@ main:
   - name: "Início"
     url: "/"
     weight: 1
-  - name: "Projetos"
+  - name: "Notícias"
     url: "/services/"
     weight: 2
   - name: "Quem Somos"
     url: "/team/"
     weight: 3
+  - name: "Tansparência"
+    url: "/transparencia/"
+    weight: 4
   - name: "Sobre"
     url: "/about/"
-    weight: 4
+    weight: 5
   - name: "Contato"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Início"
