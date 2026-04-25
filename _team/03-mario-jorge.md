@@ -3,6 +3,7 @@ title: "Mario Jorge"
 name: "Mario Jorge"
 jobtitle: "1º Secretário"
 linkedinurl: "https://www.linkedin.com/"
+group: "Diretoria"
 promoted: true
 weight: 3
 ---
