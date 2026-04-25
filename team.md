@@ -3,9 +3,6 @@ title: Diretoria
 layout: teams
 description: Diretoria da APM CMS
 permalink: "/team/"
-intro_image: "images/illustrations/imagem1.png"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
 ---
 
 # Diretoria da APM CMS
