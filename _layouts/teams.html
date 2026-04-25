@@ -25,7 +25,7 @@ bodyClass: "page-teams"
     {% for grupo in grupos %}
         {% assign pessoas = site.team | where: "group", grupo | sort: "weight" %}
         {% if pessoas.size > 0 %}
-        <div class="row pt-5">
+        <div class="row pt-1">
             <div class="col-12">
                 <h2 class="team-section-title">{{ grupo }}</h2>
             </div>
