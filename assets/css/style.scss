@@ -146,3 +146,50 @@ body {
   font-size: 17px;
   line-height: 1.55;
 }
+
+.team-section-title {
+  font-size: 28px;
+  font-weight: 800;
+  color: #003b73;
+  margin-bottom: 24px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #e5261f;
+}
+
+.team-card {
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  border-radius: 16px;
+  padding: 24px;
+  height: 100%;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+.team-card .team-name {
+  font-size: 22px;
+  font-weight: 800;
+  margin-bottom: 4px;
+}
+
+.team-card .team-name a {
+  color: #003b73;
+  text-decoration: none;
+}
+
+.team-card .team-description {
+  font-size: 16px;
+  font-weight: 700;
+  color: #e5261f;
+  margin-bottom: 10px;
+}
+
+.team-card .team-content {
+  font-size: 15px;
+  color: #555555;
+  line-height: 1.5;
+}
+
+.team-card .team-image img {
+  border-radius: 50%;
+  object-fit: cover;
+}
