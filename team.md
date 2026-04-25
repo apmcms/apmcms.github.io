@@ -4,7 +4,7 @@ layout: teams
 description: Diretoria, Conselho Fiscal e equipe de apoio da APM CMS
 permalink: "/team/"
 ---
-title: 
+
 # Quem Somos
 
 Conheça a Diretoria Executiva, o Conselho Fiscal e a equipe de apoio da Associação de Pais e Mestres do Colégio Militar de Salvador.
