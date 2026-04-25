@@ -8,4 +8,3 @@ promoted: true
 weight: 10
 ---
 
-Relatora do Conselho Fiscal da Associação de Pais e Mestres do Colégio Militar de Salvador.
