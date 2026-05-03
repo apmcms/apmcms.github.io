@@ -1,19 +1,47 @@
 <div class="call">
   <div class="call-box-top">
+
     {% if site.data.contact.phone %}
-        <div class="call-phone"><strong>Telefone: </strong> {{ site.data.contact.phone }} </div>
-    {% endif %}
-    {% if site.data.contact.email %}
-    <div class="call-email"><strong>Email: </strong>
-      <a href="mailto:{{ .site.data.contact.email }}">
-        {{ site.data.contact.email }}
-      </a>
-    </div>
-    {% endif %}
-  </div>
-    {% if include.show_button %}
-      <div class="call-box-bottom">
-        <a href="{{ site.data.contact.contact_button_link }}" class="button">Contato</a>
+      <div class="call-phone">
+        <strong>Telefone: </strong>
+        <a href="tel:{{ site.data.contact.phone | replace: ' ', '' | replace: '(', '' | replace: ')', '' | replace: '-', '' }}">
+          {{ site.data.contact.phone }}
+        </a>
       </div>
     {% endif %}
+
+    {% if site.data.contact.whatsapp %}
+      <div class="call-whatsapp">
+        <strong>WhatsApp: </strong>
+        <a href="{{ site.data.contact.whatsapp }}" target="_blank" rel="noopener">
+          Fale conosco
+        </a>
+      </div>
+    {% endif %}
+
+    {% if site.data.contact.instagram %}
+      <div class="call-instagram">
+        <strong>Instagram: </strong>
+        <a href="{{ site.data.contact.instagram }}" target="_blank" rel="noopener">
+          @apmcms
+        </a>
+      </div>
+    {% endif %}
+
+    {% if site.data.contact.email %}
+      <div class="call-email">
+        <strong>Email: </strong>
+        <a href="mailto:{{ site.data.contact.email }}">
+          {{ site.data.contact.email }}
+        </a>
+      </div>
+    {% endif %}
+
+  </div>
+
+  {% if include.show_button %}
+    <div class="call-box-bottom">
+      <a href="{{ site.data.contact.contact_button_link }}" class="button">Contato</a>
+    </div>
+  {% endif %}
 </div>
