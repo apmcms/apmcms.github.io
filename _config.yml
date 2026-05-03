@@ -1,9 +1,9 @@
-baseurl: '/'
+baseurl: ''
 permalink: pretty
 title: 'APM CMS'
 email: "contato@apmcms.org.br"
 description: "Associação de Pais e Mestres do Colégio Militar de Salvador"
-url: "https://apmcms.github.io"
+url: "https://apmcms.org.br"
 logo:
   mobile: "images/logo/logo-apm.png"
   mobile_height: "40px"
