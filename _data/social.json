@@ -8,5 +8,10 @@
       "name": "Instagram",
       "link": "https://www.instagram.com/apmcms/",
       "image": "images/social/instagram.svg"
+  },
+  {
+      "name": "WhatsApp",
+      "link": "https://wa.me/557199036616",
+      "image": "images/social/whatsapp.svg"
   }
 ]
