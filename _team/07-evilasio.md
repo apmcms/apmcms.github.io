@@ -1,6 +1,6 @@
 ---
-title: "Evilásio Junior"
-name: "Evilásio Junior"
+title: "Evilásio Júnior"
+name: "Evilásio Júnior"
 jobtitle: "Diretor Cultural"
 # image: "images/team/person-placeholder.jpg"
 linkedinurl: "https://www.linkedin.com/"
