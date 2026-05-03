@@ -5,8 +5,6 @@ description: "Conheça a Associação de Pais e Mestres do Colégio Militar de S
 permalink: "/about/"
 ---
 
-# Sobre a APM CMS
-
 A Associação de Pais e Mestres do Colégio Militar de Salvador — APM CMS — é uma associação civil sem fins lucrativos que atua em apoio à comunidade escolar do Colégio Militar de Salvador.
 
 Sua atuação é orientada pelo fortalecimento da integração entre alunos, famílias, responsáveis, professores, equipe escolar e Comando do CMS, contribuindo para a melhoria das atividades educacionais, culturais, sociais, esportivas e assistenciais desenvolvidas no ambiente escolar.
