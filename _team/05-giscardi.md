@@ -1,6 +1,6 @@
 ---
-title: "Giscardi"
-name: "Giscardi"
+title: "Giscardi Souza"
+name: "Giscardi Souza"
 jobtitle: "1º Tesoureiro"
 # image: "images/team/person-placeholder.jpg"
 linkedinurl: "https://www.linkedin.com/"
