@@ -16,5 +16,5 @@ Em breve, divulgaremos também nossos canais institucionais e horários de atend
 | Quinta    |  6:20 - 15:00   |
 | Sexta     |  6:20 - 13:00   |
 | Sabado    | Fechado         |
-| Domingo   | Closed          |
+| Domingo   | Fechado         |
 
