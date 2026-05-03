@@ -4,8 +4,6 @@ layout: contact
 description: Contato
 ---
 
-# Contato
-
 Entre em contato com a Associação de Pais e Mestres do Colégio Militar de Salvador pelos canais oficiais.
 
 Em breve, divulgaremos também nossos canais institucionais e horários de atendimento.
