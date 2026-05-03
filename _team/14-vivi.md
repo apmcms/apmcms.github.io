@@ -1,6 +1,6 @@
 ---
-title: "Viviane"
-name: "Viviane"
+title: "Viviane Brito"
+name: "Viviane Brito"
 jobtitle: "colaboradora"
 # image: "images/team/person-placeholder.jpg"
 group: "Equipe de Apoio"
