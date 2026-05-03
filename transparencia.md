@@ -5,8 +5,6 @@ description: "Documentos institucionais e informações de transparência da APM
 permalink: "/transparencia/"
 ---
 
-# Transparência
-
 A Associação de Pais e Mestres do Colégio Militar de Salvador — **APM CMS** — disponibiliza nesta página seus principais documentos institucionais, fortalecendo a transparência, a organização administrativa e o acesso à informação pela comunidade escolar.
 
 A publicação dos documentos observa os princípios de interesse coletivo, transparência, proteção de dados pessoais e responsabilidade institucional.
