@@ -8,7 +8,7 @@ main:
   - name: "Quem Somos"
     url: "/team/"
     weight: 3
-  - name: "Tansparência"
+  - name: "Transparência"
     url: "/transparencia/"
     weight: 4
   - name: "Sobre"
