@@ -2,7 +2,7 @@
 title: "Simone Miranda"
 name: "Simone Miranda"
 jobtitle: "2ª Tesoureira"
-# image: "images/team/person-placeholder.jpg"
+image: "images/team/base-128.png"
 linkedinurl: "https://www.linkedin.com/"
 group: "Diretoria"
 promoted: true
