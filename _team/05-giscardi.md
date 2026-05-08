@@ -2,7 +2,7 @@
 title: "Giscardi Souza"
 name: "Giscardi Souza"
 jobtitle: "1º Tesoureiro"
-# image: "images/team/person-placeholder.jpg"
+image: "images/team/base-128.png"
 linkedinurl: "https://www.linkedin.com/"
 group: "Diretoria"
 promoted: true
