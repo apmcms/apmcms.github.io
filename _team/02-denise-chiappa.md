@@ -1,7 +1,7 @@
 ---
 title: "Denise Chiappa"
 name: "Denise Chiappa"
-image: "images/team/sage-kirk-485982-unsplash.jpg"
+image: "images/team/dc.png"
 jobtitle: "Vice-Presidente"
 linkedinurl: "https://www.linkedin.com/example2"
 group: "Diretoria"
