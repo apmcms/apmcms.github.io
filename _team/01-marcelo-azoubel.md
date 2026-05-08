@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Azoubel"
 name: "Marcelo Azoubel"
-# image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/base-128.png"
 jobtitle: "Presidente"
 linkedinurl: "https://www.linkedin.com/"
 group: "Diretoria"
