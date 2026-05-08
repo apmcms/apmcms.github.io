@@ -2,7 +2,7 @@
 title: "Evilásio Júnior"
 name: "Evilásio Júnior"
 jobtitle: "Diretor Cultural"
-# image: "images/team/person-placeholder.jpg"
+image: "images/team/evjr.png"
 linkedinurl: "https://www.linkedin.com/"
 group: "Diretoria"
 promoted: true
