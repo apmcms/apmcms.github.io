@@ -11,6 +11,16 @@ A **Associação de Pais e Mestres do Colégio Militar de Salvador (APM CMS)**, 
 
 A iniciativa busca incentivar o acesso à cultura, fortalecer a integração entre escola e família e aproximar estudantes e responsáveis de experiências culturais em Salvador.
 
+<h2>Regulamento</h2>
+
+<p>Antes de preencher o formulário, leia o regulamento da ação cultural APM CMS + Saladearte.</p>
+
+<p>
+  <a class="button button-primary" href="/assets/docs/Regulamento_Acao_Cultural_APM_CMS_Saladearte.pdf" target="_blank" rel="noopener">
+    Baixar regulamento em PDF
+  </a>
+</p>
+
 ## Como participar
 
 Preencha o formulário oficial abaixo para participar da ação.
