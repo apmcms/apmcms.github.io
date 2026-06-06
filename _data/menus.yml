@@ -14,9 +14,12 @@ main:
   - name: "Sobre"
     url: "/about/"
     weight: 5
+  - name: "Saladearte"
+    url: "/saladearte/"
+    weight: 6
   - name: "Contato"
     url: "/contact/"
-    weight: 6
+    weight: 7
 
 footer:
   - name: "Início"
