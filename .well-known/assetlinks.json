@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.org.apmcms.app_apmcms",
+      "sha256_cert_fingerprints": [
+        "A8:CF:2E:F6:9B:F0:0C:F0:28:F4:E6:C6:AE:78:E2:44:79:DF:0F:28:0E:82:55:9A:86:D8:B3:FE:F4:CB:BD:AD"
+      ]
+    }
+  }
+]
